@@ -45,7 +45,7 @@
 <details>
   <summary><b><img src="https://img.icons8.com/ios-filled/64/FFD700/calculator.png" width="24"/> <kbd>SEC-A</kbd> QUANTITATIVE APTITUDE (20 QUESTIONS)</b></summary>
   <blockquote>
-  <table width="100%">
+  <table width="100%" cellpadding="8">
     <tr>
       <td width="50%" valign="top">
         <ul>
@@ -67,7 +67,7 @@
 <details>
   <summary><b><img src="https://img.icons8.com/ios-filled/64/FFD700/brain.png" width="24"/> <kbd>SEC-B</kbd> PROBLEM SOLVING (20 QUESTIONS)</b></summary>
   <blockquote>
-  <table width="100%">
+  <table width="100%" cellpadding="8">
     <tr>
       <td width="50%" valign="top">
         <ul>
@@ -89,7 +89,7 @@
 <details>
   <summary><b><img src="https://img.icons8.com/ios-filled/64/FFD700/communication.png" width="24"/> <kbd>SEC-C</kbd> VERBAL ABILITY (20 QUESTIONS)</b></summary>
   <blockquote>
-  <table width="100%">
+  <table width="100%" cellpadding="8">
     <tr>
       <td width="50%" valign="top">
         <ul>
@@ -123,7 +123,7 @@
 
 <br>
 
-<table align="center" width="95%">
+<table align="center" width="95%" cellpadding="10">
   <tr>
     <td width="25%" align="center" valign="middle">
       <br>
