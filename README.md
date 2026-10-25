@@ -1,36 +1,36 @@
 <div align="center">
 
-<!-- ULTRA-PREMIUM APEX HERO SECTION: OBSIDIAN & LIQUID GOLD -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,100:FFD700&height=380&section=header&text=A%20S%20S%20E%20S%20S%20M%20E%20N%20T%20%20❖%20%20A%20P%20E%20X&fontSize=62&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20ELITMUS%20PLACEMENT%20CODEX&descAlignY=62&descAlign=50" width="100%" />
+<!-- ULTRA-PREMIUM QUANTUM HERO SECTION: VOID BLACK & NEON MINT -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FFCC&height=380&section=header&text=E%20L%20I%20T%20M%20U%20S%20%20❖%20%20Q%20U%20A%20N%20T%20U%20M&fontSize=62&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20ASSESSMENT%20ARCHITECTURE&descAlignY=62&descAlign=50" width="100%" />
 
-<!-- ADVANCED COMMAND-LINE TYPING ANIMATION (RAJDHANI FONT) -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Initiate+Tier-1+Assessment+Protocols;►+Master+Quantitative,+Verbal,+%26+Problem+Solving;►+120-Minute+High-Pressure+Execution;►+Bypass+HR+Filters.+Command+Your+Worth.&center=true&width=800&height=70&color=FFD700&vCenter=true&size=22&font=Rajdhani&weight=600" />
+<!-- ADVANCED COMMAND-LINE TYPING ANIMATION (ORBITRON FONT) -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Initiate+Tier-1+Assessment+Protocols;►+Master+Quantitative,+Verbal,+%26+Problem+Solving;►+120-Minute+High-Pressure+Execution;►+Bypass+The+Filters.+Command+The+Future.&center=true&width=800&height=70&color=00FFCC&vCenter=true&size=21&font=Orbitron&weight=600" />
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AUTHOR-Assessment_Codex-09090B?style=for-the-badge&logo=github&logoColor=FFD700" alt="Author">
-  <img src="https://img.shields.io/badge/PAYLOAD-60_Master_Questions-09090B?style=for-the-badge&logo=codeigniter&logoColor=FFD700" alt="Content">
-  <img src="https://img.shields.io/badge/TARGET-eLitmus_pH_Test-09090B?style=for-the-badge&logo=target&logoColor=FFD700" alt="Target">
-  <img src="https://img.shields.io/badge/STATUS-Ready_For_Deployment-FFD700?style=for-the-badge&logo=rocket&logoColor=09090B" alt="Status">
+  <img src="https://img.shields.io/badge/AUTHOR-Assessment_Codex-000000?style=for-the-badge&logo=github&logoColor=00FFCC" alt="Author">
+  <img src="https://img.shields.io/badge/PAYLOAD-60_Master_Questions-000000?style=for-the-badge&logo=codeigniter&logoColor=00FFCC" alt="Content">
+  <img src="https://img.shields.io/badge/TARGET-eLitmus_pH_Test-000000?style=for-the-badge&logo=target&logoColor=00FFCC" alt="Target">
+  <img src="https://img.shields.io/badge/STATUS-Ready_For_Deployment-00FFCC?style=for-the-badge&logo=rocket&logoColor=000000" alt="Status">
 </p>
 
 <br>
 
 <a href="./Aptitude%20question%20and%20solutions%20.pdf">
-  <img src="https://img.shields.io/badge/▨_EXECUTE_PROTOCOL-ACCESS_THE_MASTER_CODEX-09090B?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFD700" alt="Read PDF" width="650">
+  <img src="https://img.shields.io/badge/▨_EXECUTE_PROTOCOL-ACCESS_THE_MASTER_CODEX-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=00FFCC" alt="Read PDF" width="650">
 </a>
 
 <br><br>
 
-> 👑 **EXECUTIVE DIRECTIVE:** *This repository houses a highly-classified, 60-question tactical assessment codex explicitly designed for elite corporate recruitment and eLitmus preparation[cite: 200, 201]. The assessment requires strict 120-minute execution across Quantitative Aptitude, Problem Solving, and Verbal Ability domains[cite: 201].*
+> 💠 **QUANTUM DIRECTIVE:** *This repository houses a highly-classified, 60-question tactical assessment codex explicitly designed for elite corporate recruitment and eLitmus preparation[cite: 200, 201]. The assessment requires strict 120-minute execution across Quantitative Aptitude, Problem Solving, and Verbal Ability domains[cite: 201].*
 
 </div>
 
 <br>
 
-<!-- SLEEK LIQUID GOLD DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:09090B&height=3" width="100%"/>
+<!-- SLEEK NEON MINT DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FFCC&height=2" width="100%"/>
 
 <br>
 
@@ -43,9 +43,9 @@
 <div align="center">
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/FFD700/calculator.png" width="24"/> <kbd>SEC-A</kbd> QUANTITATIVE APTITUDE (20 QUESTIONS)</b></summary>
+  <summary><b><img src="https://img.icons8.com/nolan/64/00FFCC/calculator.png" width="24"/> <kbd>SEC-A</kbd> QUANTITATIVE APTITUDE (20 QUESTIONS)</b></summary>
   <blockquote>
-  <table width="100%" cellpadding="10">
+  <table width="100%" cellpadding="12">
     <tr>
       <td width="50%" valign="top">
         <ul>
@@ -65,9 +65,9 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/FFD700/brain.png" width="24"/> <kbd>SEC-B</kbd> PROBLEM SOLVING (20 QUESTIONS)</b></summary>
+  <summary><b><img src="https://img.icons8.com/nolan/64/00FFCC/brain.png" width="24"/> <kbd>SEC-B</kbd> PROBLEM SOLVING (20 QUESTIONS)</b></summary>
   <blockquote>
-  <table width="100%" cellpadding="10">
+  <table width="100%" cellpadding="12">
     <tr>
       <td width="50%" valign="top">
         <ul>
@@ -87,9 +87,9 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/FFD700/communication.png" width="24"/> <kbd>SEC-C</kbd> VERBAL ABILITY (20 QUESTIONS)</b></summary>
+  <summary><b><img src="https://img.icons8.com/nolan/64/00FFCC/communication.png" width="24"/> <kbd>SEC-C</kbd> VERBAL ABILITY (20 QUESTIONS)</b></summary>
   <blockquote>
-  <table width="100%" cellpadding="10">
+  <table width="100%" cellpadding="12">
     <tr>
       <td width="50%" valign="top">
         <ul>
@@ -112,8 +112,8 @@
 
 <br>
 
-<!-- SLEEK LIQUID GOLD DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,100:FFD700&height=3" width="100%"/>
+<!-- SLEEK NEON MINT DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FFCC&height=2" width="100%"/>
 
 <br>
 
@@ -123,29 +123,29 @@
 
 <br>
 
-<table align="center" width="100%" cellpadding="12">
+<table align="center" width="100%" cellpadding="14">
   <tr>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/FFD700/visible--v1.png" width="55"/><br>
+      <img src="https://img.icons8.com/nolan/96/00FFCC/vision.png" width="60"/><br>
       <b>01. INGEST</b><br>
       <code>Parse Variables</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/FFD700/code.png" width="55"/><br>
+      <img src="https://img.icons8.com/nolan/96/00FFCC/source-code.png" width="60"/><br>
       <b>02. COMPILE</b><br>
       <code>Identify Formulas</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/FFD700/bug.png" width="55"/><br>
+      <img src="https://img.icons8.com/nolan/96/00FFCC/process.png" width="60"/><br>
       <b>03. THRESHOLD</b><br>
       <code>Monitor Accuracy</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/FFD700/checked.png" width="55"/><br>
+      <img src="https://img.icons8.com/nolan/96/00FFCC/approval.png" width="60"/><br>
       <b>04. EXECUTE</b><br>
       <code>Output Precision</code>
     </td>
@@ -162,7 +162,7 @@
 
 <!-- Executive Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:09090B&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFCC,100:000000&height=120&section=footer" width="100%" />
   <br>
   <code>&lt; Analyze /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Optimize /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Execute /&gt;</code>
   <br><br>
