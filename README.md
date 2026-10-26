@@ -1,36 +1,36 @@
 <div align="center">
 
-<!-- ULTRA-PREMIUM SINGULARITY HERO SECTION: MIDNIGHT NAVY & NEON BLUE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,100:00BFFF&height=380&section=header&text=E%20L%20I%20T%20M%20U%20S%20%20❖%20%20N%20E%20X%20U%20S&fontSize=65&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20ASSESSMENT%20ARCHITECTURE&descAlignY=62&descAlign=50" width="100%" />
+<!-- ULTRA-PREMIUM CYBER-MATRIX HERO SECTION: VOID BLACK & NEON EMERALD -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF66&height=380&section=header&text=E%20L%20I%20T%20M%20U%20S%20%20❖%20%20M%20A%20T%20R%20I%20X&fontSize=62&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20ASSESSMENT%20ARCHITECTURE&descAlignY=62&descAlign=50" width="100%" />
 
-<!-- ADVANCED COMMAND-LINE TYPING ANIMATION (FIRA CODE) -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Initiating+Tier-1+Assessment+Protocols;►+Master+Quantitative,+Verbal,+%26+Problem+Solving;►+120-Minute+High-Pressure+Execution;►+Bypass+The+Filters.+Command+The+Future.&center=true&width=800&height=70&color=00BFFF&vCenter=true&size=22&font=Fira+Code&weight=600" />
+<!-- ADVANCED COMMAND-LINE TYPING ANIMATION (JETBRAINS MONO) -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Root+Access:+Tier-1+Assessment+Protocols;►+Master+Quantitative,+Verbal,+%26+Problem+Solving;►+120-Minute+High-Pressure+Execution;►+Bypass+The+Filters.+Command+The+Future.&center=true&width=800&height=70&color=00FF66&vCenter=true&size=21&font=JetBrains+Mono&weight=600" />
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AUTHOR-Assessment_Codex-050B14?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Author">
-  <img src="https://img.shields.io/badge/PAYLOAD-60_Master_Questions-050B14?style=for-the-badge&logo=codeigniter&logoColor=00BFFF" alt="Content">
-  <img src="https://img.shields.io/badge/TARGET-eLitmus_pH_Test-050B14?style=for-the-badge&logo=target&logoColor=00BFFF" alt="Target">
-  <img src="https://img.shields.io/badge/STATUS-Ready_For_Deployment-00BFFF?style=for-the-badge&logo=rocket&logoColor=050B14" alt="Status">
+  <img src="https://img.shields.io/badge/AUTHOR-Assessment_Codex-000000?style=for-the-badge&logo=github&logoColor=00FF66" alt="Author">
+  <img src="https://img.shields.io/badge/PAYLOAD-60_Master_Questions-000000?style=for-the-badge&logo=codeigniter&logoColor=00FF66" alt="Content">
+  <img src="https://img.shields.io/badge/TARGET-eLitmus_pH_Test-000000?style=for-the-badge&logo=target&logoColor=00FF66" alt="Target">
+  <img src="https://img.shields.io/badge/STATUS-Ready_For_Deployment-00FF66?style=for-the-badge&logo=rocket&logoColor=000000" alt="Status">
 </p>
 
 <br>
 
 <a href="./Aptitude%20question%20and%20solutions%20.pdf">
-  <img src="https://img.shields.io/badge/▨_EXECUTE_PROTOCOL-ACCESS_THE_MASTER_CODEX-050B14?style=for-the-badge&logo=adobeacrobatreader&logoColor=00BFFF" alt="Read PDF" width="650">
+  <img src="https://img.shields.io/badge/▨_EXECUTE_PROTOCOL-ACCESS_THE_MASTER_CODEX-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=00FF66" alt="Read PDF" width="650">
 </a>
 
 <br><br>
 
-> 💠 **NEXUS DIRECTIVE:** *This repository houses a highly-classified, 60-question tactical assessment codex explicitly designed for elite corporate recruitment and eLitmus preparation[cite: 200, 201]. The assessment requires strict 120-minute execution across Quantitative Aptitude, Problem Solving, and Verbal Ability domains[cite: 201].*
+> 🟢 **SYSTEM OVERRIDE:** *This repository houses a highly-classified, 60-question tactical assessment codex explicitly designed for elite corporate recruitment and eLitmus preparation[cite: 200, 201]. The assessment requires strict 120-minute execution across Quantitative Aptitude, Problem Solving, and Verbal Ability domains[cite: 201].*
 
 </div>
 
 <br>
 
-<!-- SLEEK NEON BLUE TO NAVY DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:050B14&height=2" width="100%"/>
+<!-- SLEEK NEON EMERALD TO VOID DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF66,100:000000&height=2" width="100%"/>
 
 <br>
 
@@ -43,7 +43,7 @@
 <div align="center">
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/00BFFF/calculator.png" width="24"/> <kbd>SEC-A</kbd> QUANTITATIVE APTITUDE (20 QUESTIONS)</b></summary>
+  <summary><b><img src="https://img.icons8.com/ios-filled/64/00FF66/calculator.png" width="24"/> <kbd>SEC-A</kbd> QUANTITATIVE APTITUDE (20 QUESTIONS)</b></summary>
   <blockquote>
   <table width="100%" cellpadding="16">
     <tr>
@@ -65,7 +65,7 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/00BFFF/brain.png" width="24"/> <kbd>SEC-B</kbd> PROBLEM SOLVING (20 QUESTIONS)</b></summary>
+  <summary><b><img src="https://img.icons8.com/ios-filled/64/00FF66/brain.png" width="24"/> <kbd>SEC-B</kbd> PROBLEM SOLVING (20 QUESTIONS)</b></summary>
   <blockquote>
   <table width="100%" cellpadding="16">
     <tr>
@@ -84,87 +84,4 @@
     </tr>
   </table>
   </blockquote>
-</details>
-
-<details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/00BFFF/communication.png" width="24"/> <kbd>SEC-C</kbd> VERBAL ABILITY (20 QUESTIONS)</b></summary>
-  <blockquote>
-  <table width="100%" cellpadding="16">
-    <tr>
-      <td width="50%" valign="top">
-        <ul>
-          <li><b>Reading Comprehension:</b> Analytical passage evaluation covering sociological, cultural, and environmental paradigms[cite: 226, 230, 233].</li>
-          <li><b>Contextual Analysis:</b> Identifying underlying ideologies, author viewpoints, and inferential logic[cite: 229, 231, 235].</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
-        <ul>
-          <li><b>Grammar & Syntax:</b> Precise sentence correction, gap-filling, and verb-tense alignment[cite: 226, 236].</li>
-          <li><b>Paragraph Sequencing:</b> Coherent reconstruction of disjointed statements into logical structural pairs[cite: 236, 237].</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-  </blockquote>
-</details>
-
-</div>
-
-<br>
-
-<!-- SLEEK NEON BLUE TO NAVY DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B14,100:00BFFF&height=2" width="100%"/>
-
-<br>
-
-<h2 align="center">✦ 𝗘 𝗫 𝗘 𝗖 𝗨 𝗧 𝗜 𝗢 𝗡 &nbsp; 𝗣 𝗜 𝗣 𝗘 𝗟 𝗜 𝗡 𝗘 ✦</h2>
-
-<p align="center"><i>Master the strict parameters of the assessment environment.</i></p>
-
-<br>
-
-<table align="center" width="100%" cellpadding="16">
-  <tr>
-    <td width="25%" align="center" valign="middle">
-      <br>
-      <img src="https://img.icons8.com/ios-filled/96/00BFFF/visible--v1.png" width="60"/><br>
-      <b>01. INGEST</b><br>
-      <code>Parse Variables</code>
-    </td>
-    <td width="25%" align="center" valign="middle">
-      <br>
-      <img src="https://img.icons8.com/ios-filled/96/00BFFF/code.png" width="60"/><br>
-      <b>02. COMPILE</b><br>
-      <code>Identify Formulas</code>
-    </td>
-    <td width="25%" align="center" valign="middle">
-      <br>
-      <img src="https://img.icons8.com/ios-filled/96/00BFFF/bug.png" width="60"/><br>
-      <b>03. THRESHOLD</b><br>
-      <code>Monitor Accuracy</code>
-    </td>
-    <td width="25%" align="center" valign="middle">
-      <br>
-      <img src="https://img.icons8.com/ios-filled/96/00BFFF/checked.png" width="60"/><br>
-      <b>04. EXECUTE</b><br>
-      <code>Output Precision</code>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-> **💡 Tactical Edge:** *This assessment implements a strict penalty threshold. Negative marking activates only after 25% of your attempted questions are incorrect[cite: 201]. If you breach this allowance, every subsequent incorrect answer will draw a heavy 50% penalty mark[cite: 201]. Attempt only the questions where your precision is absolute[cite: 203].*
-
-<br>
-
----
-
-<!-- Executive Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:050B14&height=120&section=footer" width="100%" />
-  <br>
-  <code>&lt; Analyze /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Optimize /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Execute /&gt;</code>
-  <br><br>
-  <b>Master the Logic. Command the Future.</b><br>
-</div>
+</
